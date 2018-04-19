@@ -72,3 +72,21 @@ input[type=submit]:hover {
     padding: 5px 15px 15px 15px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.btnaluno {
+	width: 150px;
+	height: auto;
+	margin: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.matricula {
+	width: 150px;
+	position: relative;
+	left:17px;
+	height: auto;
+	margin: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
